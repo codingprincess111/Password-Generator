@@ -20,6 +20,7 @@ var passwordPrompts = {
 
 }
 return passwordPrompts
+
 }
 
 function generatePassword () {
