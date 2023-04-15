@@ -10,6 +10,6 @@ When user clicks specific criteria in prompts, it will generate a unique passwor
 
 [screenshot](./assets/password-generator.png)
 
-this webite can be found at https://codingprincess111.github.io/Password-Generator/\
+this webite can be found at https://codingprincess111.github.io/Password-Generator/
 
 github repo https://github.com/codingprincess111/Password-Generator
