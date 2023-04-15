@@ -6,3 +6,8 @@ This Password Generator is a web application created using HTML, CSS and Javascr
 
 When user clicks specific criteria in prompts, it will generate a unique password for user based on crieria selected. User will receive an error if prompted criteria is not met and user will be prompted to try again.
 
+###Screenshot
+
+[screenshot](./assets/password-generator.png)
+
+this webite can be found at 
